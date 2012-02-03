@@ -1,0 +1,7 @@
+<Context docBase="/jenkins">
+  <Environment 
+  	name="JENKINS_HOME" 
+  	type="java.lang.String" 
+  	value="$hudson_home" 
+  	override="true"/>
+</Context> 

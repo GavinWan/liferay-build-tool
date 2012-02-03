@@ -1,0 +1,7 @@
+<Context docBase="/hudson">
+  <Environment 
+  	name="HUDSON_HOME" 
+  	type="java.lang.String" 
+  	value="$hudson_home" 
+  	override="true"/>
+</Context> 
